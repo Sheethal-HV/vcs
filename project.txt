@@ -1,0 +1,2 @@
+The Markup language was used to create documents that can be shared through internet.
+Most widely used markup language is called as HTML.
